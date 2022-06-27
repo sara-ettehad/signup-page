@@ -12,14 +12,7 @@
 
 ### About The Project
 ---
-![login page](./Screenshot%20(753).png)
-
-A signup page enables users and organizations to independently register and gain access to your system.
-
-The process incldes:
-
-+ Check for validity of the email
-+ Check for math or mismatch password and confirm password
+![login](./Screenshot%20(753).png)
 
 What makes this product different is the pleasent experience you'll have, due to its customizable offers, excellent features and UI/UX Design.
 
