@@ -1,21 +1,26 @@
 <div align="center">
 
-  <h3 align="center">.: Login page :.</h3>
+  <h3 align="center">.: Signup page :.</h3>
 
   <p align="center">
     Helps you organize your income and expenses!
    </p> 
-    <a align="center" href="">View Live
+    <a align="center" href="https://parisa-ettehad.github.io/signup-page/">View Live
     </a>
 </div>
 
 
 ### About The Project
 ---
-![]()
+![login page](./Screenshot%20(753).png)
 
-Login page is a
-  
+A signup page enables users and organizations to independently register and gain access to your system.
+
+The process incldes:
+
++ Check for validity of the email
++ Check for math or mismatch password and confirm password
+
 What makes this product different is the pleasent experience you'll have, due to its customizable offers, excellent features and UI/UX Design.
 
 Of course, It is not the best platform yet, but we are adding new features every day to make it the best you've ever seen.
