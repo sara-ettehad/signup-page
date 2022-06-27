@@ -12,7 +12,7 @@
 
 ### About The Project
 ---
-![login](./images/Screenshot(753).png)
+![login](./Screenshot(753).png)
 
 Login page is a
   
